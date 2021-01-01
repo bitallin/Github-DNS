@@ -7,6 +7,8 @@
 
 ## 解决方案
 
+> 本方案最后更新时间：`2021/1/1`
+
 - 通过`配置DNS`
 - (Win10用户)打开`C:\Windows\System32\drivers\etc\host`
 - 在`host文件`尾部添加以下内容
