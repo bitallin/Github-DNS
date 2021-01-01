@@ -10,7 +10,8 @@
 - (Win10用户)通过配置DNS
 - 打开C:\Windows\System32\drivers\etc\host
 - 在尾部添加以下内容
-``
+
+```
 185.199.108.153   github.github.io
 151.101.72.133 	  assets-cdn.github.com
 151.101.185.194   github.global.ssl.fastly.net
@@ -29,4 +30,4 @@
 199.232.28.133    avatars6.githubusercontent.com
 199.232.28.133    avatars7.githubusercontent.com
 199.232.28.133    avatars8.githubusercontent.com`
-``
+```
