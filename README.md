@@ -2,14 +2,14 @@
 
 ## 问题描述
 
-1. github访问慢
-2. github图片打不开
+1. Github`访问慢`
+2. Github`图片打不开`
 
 ## 解决方案
 
-- (Win10用户)通过配置DNS
-- 打开C:\Windows\System32\drivers\etc\host
-- 在尾部添加以下内容
+- 通过`配置DNS`
+- (Win10用户)打开`C:\Windows\System32\drivers\etc\host`
+- 在`host文件`尾部添加以下内容
 
 ```
 185.199.108.153   github.github.io
